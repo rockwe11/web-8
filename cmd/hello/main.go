@@ -14,9 +14,9 @@ import (
 const (
 	host     = "localhost"
 	port     = 5432
-	user     = "postgres"
-	password = "postgres"
-	dbname   = "sandbox"
+	user     = "r0ckwe11"
+	password = "postgres1"
+	dbname   = "mydatabase"
 )
 
 type Handlers struct {
